@@ -1,0 +1,28 @@
+# Virtual environments
+env/
+venv/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GIS / raster temp files
+*.aux.xml
+*.ovr
+*.tfw
+*.vrt
+
+# Large SRTM data
+africa_srtm_complete/
